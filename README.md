@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GP-Bullet
-- 👀 I’m interested in Linux
+- 👀 I’m interested in Linux Kernel
 - 🌱 I’m currently learning OS
 - 📫 How to reach me MYCSDN:https://blog.csdn.net/weixin_61631200?spm=1000.2115.3001.5343
 
